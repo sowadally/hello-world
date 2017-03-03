@@ -1,5 +1,5 @@
 # hello-world
-Sharif learning how to do stuff
+Sharif learning how to do really clever stuff to make him look good
 
 Just trying to find my way around GitHub so that
 I have some understanding of what the Deveopment Team are using and 
